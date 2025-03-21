@@ -4,7 +4,7 @@
 ## Index
 - [Introduction](#Introduction)
 - [Implementation](#Implementation)
-- [Installation (Jupyter Notebook)](#Installation - Jupyter Notebook) 
+- [Installation](#Installation - Jupyter Notebook) 
 
 ### Introduction
 This project involves the analysis and exploration of various Machine Learning techniques applied to classification problems. The work will focus on a specific dataset: the [**Dry Bean Dataset**](https://archive.ics.uci.edu/dataset/602/dry+bean+dataset) from the [**UCI Machine Learning Repository**](https://archive.ics.uci.edu/). The project aims to implement and compare different classification algorithms to identify bean varieties based on their morphological characteristics.
